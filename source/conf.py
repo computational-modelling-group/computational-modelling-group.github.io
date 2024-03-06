@@ -37,4 +37,8 @@ html_theme_options = {
         },
     ],
     "show_prev_next": False,
+    "footer_end": False
 }
+
+
+html_show_sphinx = False
