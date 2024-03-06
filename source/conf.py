@@ -29,12 +29,12 @@ html_theme = 'pydata_sphinx_theme'
 html_logo = '_static/cmg-logo.png'
 html_static_path = ['_static']
 html_theme_options = {
-    # "icon_links": [
-    #     {
+    "icon_links": [
+        {
             "name": "Home page",
             "url": "https://cmg.soton.ac.uk",
             "icon": "fab fa-github-square",
-    #     },
-    # ],
+        },
+    ],
     "show_prev_next": False,
 }
