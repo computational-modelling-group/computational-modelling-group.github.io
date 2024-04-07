@@ -48,4 +48,6 @@ html_theme_options = {
 
 html_show_sphinx = False
 
-linkcheck_ignore = ["about.html"]  # is only created after sphinx runs
+linkcheck_ignore = ["about.html",  # is only created after sphinx runs
+                    "https://lists.soton.ac.uk/info/computational-modelling-group",  # needs VPN
+                    ]
