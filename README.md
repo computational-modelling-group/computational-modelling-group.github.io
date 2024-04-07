@@ -1,4 +1,8 @@
-# Computational Modelling Group entry point - developers info
+# Computational Modelling Group entry point 
+
+These are the sources for the static pages hosted at https://computational-modelling-group.github.io/ 
+
+# developers info
 
 - we use sphinx
 - make html updates the webpage
