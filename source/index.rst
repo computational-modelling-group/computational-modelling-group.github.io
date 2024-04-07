@@ -35,6 +35,10 @@ and points of contact are available:
 - For other queries, including consultancy requests from outside the university,
   contact `Hans Fangohr by email <mailto:cmg@soton.ac.uk>`__.
 
+- For communication within the group, a
+  `mailing list <https://lists.soton.ac.uk/info/computational-modelling-group>`__ is in
+  preparation.
+
 
 About
 -----
