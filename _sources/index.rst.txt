@@ -1,11 +1,7 @@
 .. image:: _static/masthead.jpg
 
-|
-
 Computational Modelling Group (CMG)
 ===================================
-
-
 
 .. toctree::
    :hidden:
@@ -46,3 +42,6 @@ About
 Please see `here <about.html>`__ for details about the Computational Modelling
 activities at Southampton and the historical context.
 
+-----
+
+Last updated: 2024-04-07
