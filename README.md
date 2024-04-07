@@ -7,7 +7,7 @@
 
 
 # set of working packages as of 2024-04-07
-
+```
 accessible-pygments==0.0.4
 alabaster==0.7.16
 Babel==2.14.0
@@ -34,3 +34,4 @@ sphinxcontrib-qthelp==1.0.7
 sphinxcontrib-serializinghtml==1.1.10
 typing_extensions==4.11.0
 urllib3==2.2.1
+```
