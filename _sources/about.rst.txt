@@ -53,3 +53,5 @@ computational methods have become the `third pillar of science
 and theory), and are embedded in most research activities -- much reducing the
 need for the networking opportunities the computational modelling group provided.
 
+From 2024 onwards, the home page and contact point for remaining CMG activities is 
+https://computational-modelling-group.github.io/.
