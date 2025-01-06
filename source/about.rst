@@ -17,7 +17,7 @@ to 2024, about 1500 PhD students, research fellows and academics have been
 `networking and training opportunities <https://cmg.soton.ac.uk/events/past?page=all>`__
 that the community can provide across a wide range of
 `research domains <https://cmg.soton.ac.uk/research/>`__.
-In 2024, the community-editable web pages at https://cmg.soton.ac.uk have been
+At the end of 2024, the community-editable web pages at https://cmg.soton.ac.uk have been
 retired and now serve as a read-only archive.
 
 Based on that computational community two Centres for Doctoral Training
@@ -53,5 +53,5 @@ computational methods have become the `third pillar of science
 and theory), and are embedded in most research activities -- much reducing the
 need for the networking opportunities the computational modelling group provided.
 
-From 2024 onwards, the home page and contact point for remaining CMG activities is 
+From 2025 onwards, the home page and contact point for remaining CMG activities is 
 https://computational-modelling-group.github.io/.

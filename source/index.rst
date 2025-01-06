@@ -36,8 +36,7 @@ and points of contact are available:
   contact `Hans Fangohr by email <mailto:cmg@soton.ac.uk>`__.
 
 - For communication within the group, a
-  `mailing list <https://lists.soton.ac.uk/info/computational-modelling-group>`__ is in
-  preparation.
+  `mailing list <https://lists.soton.ac.uk/info/computational-modelling-group>`__ is available.
 
 
 About
@@ -48,4 +47,4 @@ activities at Southampton and the historical context.
 
 -----
 
-Last updated: 2024-04-07
+Last updated: 2025-01-06
