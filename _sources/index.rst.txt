@@ -12,7 +12,7 @@ Computational Modelling Group (CMG)
 
 Welcome to the home page of the Computational Modelling Group at the `University
 of Southampton <https://www.southampton.ac.uk>`__.The Web pages of the CMG from
-2009 to 2024 have been archived at `https://cmg.soton.ac.uk
+2009 to 2025 have been archived at `https://cmg.soton.ac.uk
 <https://cmg.soton.ac.uk>`__.
 
 Support and consultancy
@@ -33,7 +33,7 @@ and points of contact are available:
   experts.
 
 - For other queries, including consultancy requests from outside the university,
-  contact `Hans Fangohr by email <mailto:cmg@soton.ac.uk>`__.
+  contact `Hans Fangohr by email <mailto:fangohr@soton.ac.uk>`__.
 
 - For communication within the group, a
   `mailing list <https://lists.soton.ac.uk/info/computational-modelling-group>`__ is available.
@@ -47,4 +47,4 @@ activities at Southampton and the historical context.
 
 -----
 
-Last updated: 2025-01-06
+Last updated: 2025-03-14
